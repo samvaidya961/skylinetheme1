@@ -1155,7 +1155,8 @@ hr {
   margin-left: 1rem;
 }
 .yourordersitemheader {
-  background-color: var(--grey);
+  background-color: var(--blue);
+  color: white;
   font-size: 14px;
   display: flex;
   padding: 0.6rem 1rem;
@@ -1198,6 +1199,10 @@ hr {
   font-size: 14px;
   padding-right: 2rem;
   width: 70%;
+}
+.yourordersproductinfo button{
+  background-color: var(--grey);
+  color: black;
 }
 .yourordersproductinfo button {
   font-size: 13px;
